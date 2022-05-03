@@ -6,7 +6,7 @@ public class Q1002 {
 		Scanner sc = new Scanner(System.in);
 		int x1, y1, r1, x2, y2, r2;
 		
-		
+		//test
 
 	}
 
