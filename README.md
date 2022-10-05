@@ -1,4 +1,4 @@
-# Solving Algorithmic Problems
+# Solving Algorithm Problems
 ## Whenever I study, I solve problems and commit them.
 ### I got algorithm problems from these sites
 * My Baekjun profile (https://www.acmicpc.net/user/tg0926)
