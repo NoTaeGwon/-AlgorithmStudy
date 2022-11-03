@@ -35,6 +35,7 @@ public class Main {
 }
 
 //다른 풀이 (메모리 초과)
+//메모리 초과 이슈 때문에 BigInteger을 이용해야한다.
 //import java.util.Scanner;
 //
 //public class Main {
@@ -61,4 +62,4 @@ public class Main {
 //	}
 //
 //}
-//
+//.
