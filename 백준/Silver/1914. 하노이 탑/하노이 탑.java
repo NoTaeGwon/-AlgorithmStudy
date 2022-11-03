@@ -33,3 +33,32 @@ public class Main {
         }
     }
 }
+
+//다른 풀이 (메모리 초과)
+//import java.util.Scanner;
+//
+//public class Main {
+//	static void move(int no, int x, int y) {
+//		if (no > 1) {
+//			move(no - 1, x, 6 - x - y);
+//		}
+//		
+//		System.out.println(x + " " + y);
+//
+//		if (no > 1) {
+//			move(no - 1, 6 - x - y, y);
+//		}
+//	}
+//	public static void main(String[] args) {
+//		// TODO Auto-generated method stub
+//		Scanner stdIn = new Scanner(System.in);
+//		int n = stdIn.nextInt();
+//		
+//		int r = (int)Math.pow(2, n);
+//		System.out.println(r - 1);
+//		move(n, 1, 3);
+//
+//	}
+//
+//}
+//
